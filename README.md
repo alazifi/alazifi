@@ -2,6 +2,7 @@
 - 👀 I’m interested in Internet of Things and Mobile Application
 - 🌱 I’m currently learning Mobile App
 - 💞️ I’m looking to collaborate on IoT and Mobile app Development
+- 📪 My Email Address: haidarali.eu@gmail.com
 
 <!---
 alazifi/alazifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
