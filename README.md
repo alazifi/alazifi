@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haidar Ali
 - 👀 I’m interested in Internet of Things
-- 🌱 I’m currently working as IoT Engineer
+- 🌱 I’m currently working as an IoT Engineer
 - 💞️ I’m looking to collaborate on IoT and Mobile app Development
 - 📪 My Email Address: haidarali.eu@gmail.com
 
